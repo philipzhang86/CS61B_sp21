@@ -7,6 +7,7 @@ public class Collatz {
 
     /**
      * Buggy implementation of nextNumber!
+     * Let me try try github add method
      */
     public static int nextNumber(int n) {
         if (n == 1) {
